@@ -1,7 +1,7 @@
 import tweepy
 import time
 import os 
-form os import environ
+
 FILE_NAME ='last_seen_id.txt'
 
 CONSUMER_KEY = environ['CONSUMER_KEY']
